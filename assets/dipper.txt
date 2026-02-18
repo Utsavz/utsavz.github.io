@@ -1,0 +1,6 @@
+@article{singh2024direct,
+  title={Direct Preference Optimization for Primitive-Enabled Hierarchical Reinforcement Learning},
+  author={Singh, Utsav and Chakraborty, Souradip and Suttle, Wesley A and Sadler, Brian M and Asher, Derrik E and Sahu, Anit Kumar and Shah, Mubarak and Namboodiri, Vinay P and Bedi, Amrit Singh},
+  journal={arXiv preprint arXiv:2411.00361},
+  year={2024}
+}

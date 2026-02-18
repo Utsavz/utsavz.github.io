@@ -1,0 +1,6 @@
+@article{singh2024lgr2,
+  title={Lgr2: Language guided reward relabeling for accelerating hierarchical reinforcement learning},
+  author={Singh, Utsav and Bhattacharyya, Pramit and Namboodiri, Vinay P},
+  journal={arXiv preprint arXiv:2406.05881},
+  year={2024}
+}

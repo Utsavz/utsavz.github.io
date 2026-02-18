@@ -1,0 +1,6 @@
+@article{singh2023crisp,
+  title={Crisp: Curriculum inducing primitive informed subgoal prediction for hierarchical reinforcement learning},
+  author={Singh, Utsav and Namboodiri, Vinay P},
+  journal={arXiv preprint arXiv:2304.03535},
+  year={2023}
+}

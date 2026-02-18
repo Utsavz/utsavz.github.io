@@ -1,0 +1,5 @@
+@inproceedings{singhpiper,
+  title={PIPER: Primitive-Informed Preference-based Hierarchical Reinforcement Learning via Hindsight Relabeling},
+  author={Singh, Utsav and Suttle, Wesley A and Sadler, Brian M and Namboodiri, Vinay P and Bedi, Amrit},
+  booktitle={Forty-first International Conference on Machine Learning}
+}

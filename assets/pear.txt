@@ -1,0 +1,5 @@
+@inproceedings{singhpear,
+  title={PEAR: Primitive Enabled Adaptive Relabeling for Boosting Hierarchical Reinforcement Learning},
+  author={Singh, Utsav and Namboodiri, Vinay P},
+  booktitle={The Thirteenth International Conference on Learning Representations}
+}
